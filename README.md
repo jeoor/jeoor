@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Blog: [kayro.dpdns.org](https://kayro.dpdns.org)
+My Blog: [www.kayro.top](https://www.kayro.top)
 <!--
 **jeoor/jeoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
