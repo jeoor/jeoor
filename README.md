@@ -44,7 +44,7 @@
 <p align="center">A tiny checklist for the long run.</p>
 
 - [x] Be born
-- [x] Have an education (Doing)
+- [x] Have an education
 - [ ] Have a work
 - [ ] Have a life partner
 - [ ] Enjoy the world
