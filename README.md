@@ -7,12 +7,10 @@
 
 <p align="center">
 	<img src="gifs/Hi.gif" width="26" alt="Hi" />
-	<b>Welcome!</b>
+	<b>Welcome to my GitHub!</b>
 </p>
 
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:393E46,100:222831&height=2&section=header" alt="Divider" />
-</p>
+---
 
 ## Contributions
 
