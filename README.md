@@ -49,6 +49,10 @@ struct AboutMe {
 
 <p align="center">
 	<img
+		src="https://github-readme-activity-graph.vercel.app/graph?username=jeoor&theme=github-dark-dimmed&hide_border=true&bg_color=222831&color=EEEEEE&line=00ADB5&point=EEEEEE&custom_title=Contribution%20Graph"
+		alt="Contribution Graph"
+	/>
+	<img
 		src="https://stats.programcx.cn/api?username=jeoor&show_icons=true&hide_border=true&bg_color=222831&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5"
 		height="160"
 		alt="GitHub Stats"
@@ -70,17 +74,7 @@ struct AboutMe {
 - [ ] Enjoy the life
 - [ ] Leave the world peacefully
 
-<details>
-<summary><b>More</b></summary>
-
-<br/>
-
-<p align="center">
-	<img
-		src="https://github-readme-activity-graph.vercel.app/graph?username=jeoor&theme=github-dark-dimmed&hide_border=true&bg_color=222831&color=EEEEEE&line=00ADB5&point=EEEEEE&custom_title=Contribution%20Graph"
-		alt="Contribution Graph"
-	/>
-</p>
+## Joke
 
 <p align="center">
 	<img
@@ -92,8 +86,6 @@ struct AboutMe {
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=jeoor&style=flat&color=00adb5" alt="Profile Views" />
 </p>
-
-</details>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,100:00ADB5&height=95&section=footer" alt="Footer" />
