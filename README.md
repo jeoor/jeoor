@@ -14,26 +14,14 @@
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:393E46,100:222831&height=2&section=header" alt="Divider" />
 </p>
 
-## About
+## Contributions
 
-```cpp
-namespace Kayro {
-struct AboutMe {
-	static constexpr const char* name = "kayro";
-
-	static constexpr const char* skills[] = {
-		"C / C++",
-		"Python",
-		"SQL",
-	};
-
-	static constexpr const char* interests[] = {
-		"Learning code",
-		"Coding",
-	};
-};
-}  // namespace Kayro
-```
+<p align="center">
+	<img
+		src="https://github-readme-activity-graph.vercel.app/graph?username=jeoor&theme=github-dark-dimmed&hide_border=true&bg_color=222831&color=EEEEEE&line=00ADB5&point=EEEEEE&custom_title=Contribution%20Graph"
+		alt="Contribution Graph"
+	/>
+</p>
 
 ## Abilities
 
@@ -48,10 +36,6 @@ struct AboutMe {
 ## GitHub Stats
 
 <p align="center">
-	<img
-		src="https://github-readme-activity-graph.vercel.app/graph?username=jeoor&theme=github-dark-dimmed&hide_border=true&bg_color=222831&color=EEEEEE&line=00ADB5&point=EEEEEE&custom_title=Contribution%20Graph"
-		alt="Contribution Graph"
-	/>
 	<img
 		src="https://stats.programcx.cn/api?username=jeoor&show_icons=true&hide_border=true&bg_color=222831&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5"
 		height="160"
