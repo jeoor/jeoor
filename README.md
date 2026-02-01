@@ -60,7 +60,7 @@ struct AboutMe {
 	/>
 </p>
 
-## tasks
+## TODOs
 - [x] Be born
 - [x] Get educated
 - [ ] Get a job
