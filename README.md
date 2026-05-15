@@ -39,11 +39,11 @@
 		height="160"
 		alt="GitHub Stats"
 	/>
-	<img
+	<!-- <img
 		src="https://stats.programcx.cn/api/top-langs?username=jeoor&layout=compact&hide_border=true&bg_color=222831&title_color=EEEEEE&text_color=EEEEEE"
 		height="160"
 		alt="Top Languages"
-	/>
+	/> -->
 </p>
 
 ## TODOs
