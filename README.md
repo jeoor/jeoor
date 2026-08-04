@@ -21,6 +21,7 @@
 	/>
 </p>
 
+<!--
 ## Abilities
 
 <p>
@@ -30,27 +31,13 @@
 	&nbsp;
 	<img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=393E46&style=for-the-badge&labelColor=222831&logo=postgresql&logoColor=00ADB5&logoWidth=16" />
 </p>
-
-## GitHub Stats
-
-<p align="center">
-	<img
-		src="https://stats.programcx.cn/api?username=jeoor&show_icons=true&hide_border=true&bg_color=222831&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5"
-		height="160"
-		alt="GitHub Stats"
-	/>
-	<!-- <img
-		src="https://stats.programcx.cn/api/top-langs?username=jeoor&layout=compact&hide_border=true&bg_color=222831&title_color=EEEEEE&text_color=EEEEEE"
-		height="160"
-		alt="Top Languages"
-	/> -->
-</p>
+-->
 
 ## TODOs
 - [x] Be born
 - [x] Get educated
 - [ ] Get a job
-- [ ] Find life partner
+- [ ] Find a life partner
 - [ ] Get married
 - [ ] Have children
 - [ ] Enjoy the life
